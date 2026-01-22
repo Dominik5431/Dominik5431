@@ -1,4 +1,4 @@
-### Hi there 👋
+Correspondence to dominik.seip@uni-tuebingen.de
 
 <!--
 **Dominik5431/Dominik5431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
